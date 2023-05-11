@@ -1,1 +1,1 @@
-# spring-boot-students-web-app
+# Spring Boot students Web application
