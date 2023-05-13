@@ -1,6 +1,6 @@
-# Spring Boot students handler Web application
+# Spring Boot students management Web application
 
-Simple overview of use/purpose.
+Simple web application to show how to implements CRUD operations.
 
 ## Description
 
